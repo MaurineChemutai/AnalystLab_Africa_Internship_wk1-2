@@ -8,7 +8,7 @@
 
 Data quality is the foundation of every successful data science and machine learning project. Before building predictive models, datasets must be cleaned, validated, and thoroughly explored.
 
-This project demonstrates a complete data cleaning and exploratory data analysis (EDA) workflow on multiple real-world datasets. It covers identifying missing values, detecting duplicates, understanding feature distributions, and visualizing relationships between variables to uncover valuable insights.
+This project demonstrates a complete data cleaning and exploratory data analysis (EDA) workflow on two real-world datasets. It covers identifying missing values, detecting duplicates, understanding feature distributions, and visualizing relationships between variables to uncover valuable insights.
 
 The notebook follows best practices used in professional data analytics and machine learning projects.
 
@@ -69,17 +69,6 @@ Features include:
 - NumPy
 - Matplotlib
 - Seaborn
-
----
-
-## 📚 Python Libraries
-
-```python
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-```
 
 ---
 
@@ -208,7 +197,6 @@ Examples of visualizations included in this project:
 - 📈 Correlation Heatmaps
 - 📉 Boxplots
 - 📌 Countplots
-- 📍 Scatterplots
 - 📋 Statistical Summaries
 
 ---
@@ -242,7 +230,3 @@ Passionate about transforming raw data into actionable insights through analytic
 Consider giving the repository a ⭐ to support the project and help others discover it.
 
 ---
-
-## 📜 License
-
-This project is intended for educational and learning purposes.
